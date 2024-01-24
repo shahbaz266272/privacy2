@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.policy {
+  padding: 1rem 2rem;
+  background-color: rgb(56, 48, 37);
+  color: aliceblue;
+  height: 100vh;
+}
+.textcolor {
+  color: rgb(255, 123, 0);
+}
+.subtextcolor {
+  color: rgb(0, 174, 255);
+}
